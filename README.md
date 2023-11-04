@@ -24,7 +24,7 @@ I'm passionate about creating robust and user-friendly software solutions. My jo
 
 📧 **Let's Connect:**
 - LinkedIn: (https://www.linkedin.com/in/ahammed-ashraf-k-360235194/)
-- Email: ahammedashraf548387@gmkail.com
+- Email: ahammedashraf548387@gmail.com
 
 Feel free to explore my GitHub repositories to see my coding journey. If you have any questions or want to collaborate on exciting projects, please get in touch. Let's connect, learn, and grow together!
 
