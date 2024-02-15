@@ -5,10 +5,11 @@ Hello, I'm Ahammed Ashraf👋
 I'm passionate about creating robust and user-friendly software solutions. My journey in the tech world has been a combination of software development and software testing, allowing me to provide end-to-end solutions and deliver high-quality applications.
 
 🛠️ **Tech Stack:**
-- **Front-end:** HTML, CSS, JavaScript, React,bootstrap
+- **Front-end:** HTML, CSS, JavaScript, React,bootstrap,tailwind css
 - **Back-end:** Java, Spring Boot
 - **Database:** MongoDB, MySQL
 - **Testing:** Selenium,junit,TestNg
+- **Design** Figma
 
 🌟 **Key Skills:**
 - Full-stack development
